@@ -14,7 +14,7 @@ SimpleITK 2.2.1
 
 # Dataset
 Download AISD from [here](https://github.com/griffinliang/aisd), and ISLES2018 from [here](https://www.isles-challenge.org/ISLES2018/), 
-preprocess CT image first following the instruction in our paper, and then using the preprocess codes in nnUNet/nnunet/dataset_conversion.  
+preprocess CT image first following the instruction in our manuscript, and then using the preprocess codes in nnUNet/nnunet/dataset_conversion.  
 
 # Training
 use package/run/run_training.py  
