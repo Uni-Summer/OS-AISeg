@@ -1,4 +1,4 @@
-*Part of the code is being organized and will be uploaded within 24 hours*  
+
 # Requirement
 CUDA 11.4  
 Python 3.8.8  
